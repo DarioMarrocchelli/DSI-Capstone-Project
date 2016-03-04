@@ -1,6 +1,6 @@
 # DSI-Capstone-Project
 
-Here you can find the python code for a Kaggle competion I did in November 2015. 
+Here you can find the python code for a Kaggle competion I did in November 2015. The key idea of this competition is to try to forecast the sales of the Rossmann stores for the Summer of 2015, given their sales in the previous 2 years.
 More info can be found [here](https://www.kaggle.com/c/rossmann-store-sales). 
 I used this competition for my capstone project for the [Data Science Intensive Workshop](https://www.springboard.com/workshops/data-science-intensive/).
 
