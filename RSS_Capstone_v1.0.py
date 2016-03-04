@@ -139,8 +139,8 @@ from sklearn.tree import DecisionTreeRegressor
 
 # Several ML regressors; RF seem to be the best
 
-#clf = RandomForestRegressor(n_estimators = 10, n_jobs = -1, max_depth = 1119)
-clf = SVR(C=10)
+clf = RandomForestRegressor(n_estimators = 10, n_jobs = -1, max_depth = 1119)
+#clf = SVR(C=10)
 #clf = DecisionTreeRegressor(min_samples_split = 8)
 #clf = LinearRegression()
 #clf = AdaBoostRegressor(n_estimators = 100)
