@@ -12,3 +12,5 @@ The repo contains the following files:
 - Functions.py: some functions (currently one) that are used in the code
 - README.md: this file
 - RSS_Capstone_v1.0.py: a python script that loads and cleans the data, engineers some features and parametrizes a ML model to forecast the store sales.
+
+The results of this analysis were also summarized on a not-too-technical blog post on [medium.com](https://medium.com/@Marrocchelli82/predicting-store-sales-other-interesting-insights-73beb8401790#.dp71v9gid).
